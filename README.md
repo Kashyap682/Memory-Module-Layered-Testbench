@@ -1,0 +1,5 @@
+# Memory-Module-Layered-Testbench
+<div style='text-align: justify;'>
+In this project the implementation of a layered test bench for a memory module in Verilog is done.
+The implementation of a layered test bench for a memory module in Verilog provides a powerful and flexible way to verify the functionality of a design. The layered test bench allows for the use of different modules, such as the generator, monitor, and comparator modules, which work together to ensure the correct operation of the memory module under test. By creating separate modules for each layer, the test bench can be easily modified and reused for other designs, saving time and effort in the verification process. Furthermore, the use of assertions and testbenches can provide more comprehensive and reliable verification, allowing for early detection and debugging of issues in the design. Overall, the layered test bench approach is a powerful tool for verifying the functionality of complex digital designs and can greatly improve the quality and reliability of the final product.
+</div>
